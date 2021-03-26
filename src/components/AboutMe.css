@@ -1,0 +1,23 @@
+.picture {
+    width: 20%;
+    margin-left: 150px;
+    margin-bottom: 5%;
+}
+h3{
+    color: #898b8a;
+}
+
+.AboutMe {
+    color: black;
+    margin-left:80px;
+    width: 700px;
+    border: 3px solid #73AD21;
+}
+p{
+    color: black;
+}
+.icon{
+    width: 30px;
+    margin: 10px;
+    filter: grayscale();
+}

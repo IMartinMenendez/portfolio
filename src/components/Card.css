@@ -1,0 +1,6 @@
+.card-row {
+    display: inline-block;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-bottom: 5%;
+}
