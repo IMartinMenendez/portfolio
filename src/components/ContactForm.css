@@ -1,10 +1,26 @@
 .finalContact{
-    margin: 20px;
-    align-items: center;
-    background-color: grey;
+   text-align: center;
+    margin-top: 30px;
+    padding-top:30px;
+    padding-bottom: 30px;
+    background-color: #dddddd;
+    background-size: 100%;
 }
 
 .formDiv{
     width: 600px;
-    background-color: white;
+    margin: auto;
+    padding: 5px;
+}
+.form-control{
+    margin: 20px;
+    border-bottom: 2px solid #222!important;
+    border-left: 0!important;
+    border-right: 0!important;
+    border-top:0!important;
+    padding: 12px 6px !important;
+    background-color: #dddddd!important;
+}
+h2{
+    margin-bottom: 50px;
 }

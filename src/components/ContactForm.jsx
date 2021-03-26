@@ -5,24 +5,18 @@ import "./ContactForm.css";
 export function FinalForm() {
     return (
         <div className="finalContact">
+            <h2> Do you want to know more? Contact Me.</h2>
             <div className='formDiv'>
             <Form>
                 <Form.Group controlId="formBasicEmail">
-                    <Form.Label>Email address</Form.Label>
                     <Form.Control type="email" placeholder="Enter email"/>
                     <Form.Text className="text-muted">
-                        We'll never share your email with anyone else.
                     </Form.Text>
                 </Form.Group>
-
-                <Form.Group controlId="formBasicPassword">
-                    <Form.Label>Password</Form.Label>
-                    <Form.Control type="password" placeholder="Password"/>
+                <Form.Group rows={3} controlId="formBasicMessage">
+                    <Form.Control as="textarea" placeholder='Enter your message' rows={3}/>
                 </Form.Group>
-                <Form.Group controlId="formBasicCheckbox">
-                    <Form.Check type="checkbox" label="Check me out"/>
-                </Form.Group>
-                <Button variant="primary" type="submit">
+                <Button variant="outline-primary">
                     Submit
                 </Button>
             </Form>
