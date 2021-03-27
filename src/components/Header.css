@@ -17,6 +17,8 @@
 
 h1{
     color: white;
+    margin-top: 250px !important;
+    font-size: 70px!important;
 }
 .pHeader{
     color: white;
@@ -24,7 +26,7 @@ h1{
 
 }
 
-h1 {
+.animation {
     margin-top: 250px !important;
     font-size: 70px!important;
 }

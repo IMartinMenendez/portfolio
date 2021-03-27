@@ -3,7 +3,8 @@
     margin-top: 30px;
     padding-top:30px;
     padding-bottom: 30px;
-    background-color: #dddddd;
+    /*background-color: #dddddd;*/
+    background-color: #f2f2f2;
     background-size: 100%;
 }
 
@@ -19,7 +20,7 @@
     border-right: 0!important;
     border-top:0!important;
     padding: 12px 6px !important;
-    background-color: #dddddd!important;
+    background-color: #f2f2f2!important;
 }
 h2{
     margin-bottom: 50px;

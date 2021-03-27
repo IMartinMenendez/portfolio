@@ -20,4 +20,8 @@ p{
     width: 30px;
     margin: 10px;
     filter: grayscale();
+    padding-bottom: 30px;
+}
+.icon:hover{
+    filter: none;
 }
