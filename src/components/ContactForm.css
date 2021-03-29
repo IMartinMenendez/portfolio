@@ -1,27 +1,42 @@
-.finalContact{
-   text-align: center;
+.finalContact {
+    text-align: center;
     margin-top: 30px;
-    padding-top:30px;
+    padding-top: 30px;
     padding-bottom: 30px;
     /*background-color: #dddddd;*/
     background-color: #f2f2f2;
-    background-size: 100%;
+    background-size: 50rem;
 }
 
-.formDiv{
-    width: 600px;
+
+.formDiv {
+    width: 30%;
     margin: auto;
     padding: 5px;
 }
-.form-control{
-    margin: 20px;
-    border-bottom: 2px solid #222!important;
-    border-left: 0!important;
-    border-right: 0!important;
-    border-top:0!important;
-    padding: 12px 6px !important;
-    background-color: #f2f2f2!important;
+
+.form-control {
+    margin: 2rem 0;
+    border-bottom: 2px solid #222 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+    border-top: 0 !important;
+    padding: 2rem 0.5rem !important;
+    background-color: #f2f2f2 !important;
 }
-h2{
-    margin-bottom: 50px;
+
+h2 {
+    margin-bottom: 20rem;
 }
+
+@media only screen and (max-width: 1200px) {
+.finalContact{
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+    .formDiv{
+        text-align: initial!important;
+        width: 100%;
+    }
+    }

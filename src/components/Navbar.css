@@ -1,4 +1,15 @@
-.logo{
+.logo {
     width: 70px;
     padding: 0%;
 }
+
+@media (max-width: 1500px) {
+    .navbar {
+        box-sizing: content-box;
+    }
+    @media (max-width: 1000px) {
+        .navbar {
+            box-sizing: content-box;
+        }
+
+    }}

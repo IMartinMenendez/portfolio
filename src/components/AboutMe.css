@@ -1,6 +1,6 @@
 .picture {
-    width: 20%;
-    margin-left: 150px;
+    width: 20rem;
+    margin-left: 15rem;
     margin-bottom: 5%;
 }
 h3{
@@ -10,18 +10,36 @@ h3{
 .AboutMe {
     color: black;
     margin-left:80px;
-    width: 700px;
+    width: 50rem;
     /*border: 3px solid #73AD21;*/
 }
 p{
     color: black;
 }
 .icon{
-    width: 30px;
-    margin: 10px;
+    width: 2rem;
+    margin: 1rem;
     filter: grayscale();
     padding-bottom: 30px;
 }
 .icon:hover{
     filter: none;
+}
+
+@media only screen and (max-width: 1000px) {
+    .picture {
+        width: 50%;
+        margin-left: 15%;
+        margin-bottom: 5%;
+    }
+    .AboutMe {
+        margin-left:4rem;
+    }
+
+    @media only screen and (max-width: 1500px) {
+        .picture {
+            width: 15rem;
+            margin-bottom: 5%;
+        }
+    }
 }

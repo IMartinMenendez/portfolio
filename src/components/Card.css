@@ -1,11 +1,30 @@
 .card-row {
     display: inline-block;
     flex-direction: row;
-    margin-left: 150px;
+    /*margin-left: 150px;*/
+    margin-left: 10rem;
     margin-bottom: 5%;
 }
 
 .card-row:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.1);
+}
+
+@media only screen and (max-width: 1000px) {
+    .card-row {
+        margin-left: 20%;
+        width: 15rem !important;
+    }
+
+    @media only screen and (max-width: 1600px) {
+        .card-row {
+           /*margin: auto;*/
+            margin-top: auto;
+            margin-bottom: 20%;
+            margin-right: auto;
+            margin-left: auto;
+            width: 70% !important;
+        }
+    }
 }
