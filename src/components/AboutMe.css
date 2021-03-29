@@ -3,26 +3,31 @@
     margin-left: 15rem;
     margin-bottom: 5%;
 }
-h3{
+
+h3 {
     color: #898b8a;
 }
 
 .AboutMe {
     color: black;
-    margin-left:80px;
+    margin-left: 80px;
     width: 50rem;
+    text-align: justify;
     /*border: 3px solid #73AD21;*/
 }
-p{
+
+p {
     color: black;
 }
-.icon{
+
+.icon {
     width: 2rem;
     margin: 1rem;
     filter: grayscale();
     padding-bottom: 30px;
 }
-.icon:hover{
+
+.icon:hover {
     filter: none;
 }
 
@@ -32,8 +37,11 @@ p{
         margin-left: 15%;
         margin-bottom: 5%;
     }
+
     .AboutMe {
-        margin-left:4rem;
+        margin-left: 4rem;
+        text-align: justify;
+        margin-right: 4rem;
     }
 
     @media only screen and (max-width: 1500px) {
