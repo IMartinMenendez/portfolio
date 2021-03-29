@@ -1,8 +1,6 @@
 import './Header.css';
 import React from "react";
 import TypeWriterEffect from 'react-typewriter-effect';
-import logo from './Logos/8.png';
-
 
 export function Header() {
     return (
