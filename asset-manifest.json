@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.10006caf.chunk.css",
-    "main.js": "/portfolio/static/js/main.3d7fbb1b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3d7fbb1b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ac47b901.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ac47b901.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.e1a034cc.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.e1a034cc.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/2.31eea64a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.31eea64a.chunk.js.LICENSE.txt",
     "static/media/8.a5d03c58.png": "/portfolio/static/media/8.a5d03c58.png",
     "static/media/AboutMe.271795bf.jpg": "/portfolio/static/media/AboutMe.271795bf.jpg",
-    "static/media/CV.8b73abd8.pdf": "/portfolio/static/media/CV.8b73abd8.pdf",
+    "static/media/CV.a52b4f01.pdf": "/portfolio/static/media/CV.a52b4f01.pdf",
     "static/media/RelaxMe.1ada44b9.png": "/portfolio/static/media/RelaxMe.1ada44b9.png",
     "static/media/github.a855c397.png": "/portfolio/static/media/github.a855c397.png",
     "static/media/instagram.374a26b7.png": "/portfolio/static/media/instagram.374a26b7.png",
@@ -27,6 +27,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.31eea64a.chunk.js",
     "static/css/main.10006caf.chunk.css",
-    "static/js/main.3d7fbb1b.chunk.js"
+    "static/js/main.ac47b901.chunk.js"
   ]
 }
