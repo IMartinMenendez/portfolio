@@ -26,7 +26,7 @@ export function AboutMe() {
             <Row>
                 <Image id='aboutMe' className="picture" src={aboutMeImg} roundedCircle/>
                 <div className="AboutMe">
-                    <h2>About Me.</h2>
+                    <h2 className="textAboutMe">About Me.</h2>
                     <h3>I am Irene Martin.</h3>
                     <p>After 4 years working in Finance across marketing and publishing sectors, I am ready for my next
                         challenge: Becoming a Web Developer.</p>

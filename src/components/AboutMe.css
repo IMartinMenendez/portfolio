@@ -1,5 +1,6 @@
 .picture {
-    width: 20rem;
+    width: 20%;
+    /*height: 10%;*/
     margin-left: 15rem;
     margin-bottom: 5%;
 }
@@ -7,7 +8,9 @@
 h3 {
     color: #898b8a;
 }
-
+.textAboutMe{
+    margin: auto;
+}
 .AboutMe {
     color: black;
     margin-left: 80px;
@@ -33,7 +36,8 @@ p {
 
 @media only screen and (max-width: 1000px) {
     .picture {
-        width: 50%;
+        width: 20%;
+        height: 10%;
         margin-left: 15%;
         margin-bottom: 5%;
     }
