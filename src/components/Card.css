@@ -2,10 +2,15 @@
     display: inline-block;
     flex-direction: row;
     /*margin-left: 150px;*/
-    margin-left: 10rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
     margin-bottom: 5%;
 }
 
+.card-row:first-child { margin-left: 10rem; }
+.row{
+    margin: auto;
+}
 .card-row:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.1);
