@@ -6,7 +6,6 @@
     display: block;
     padding: 15rem;
     width:100%;
-    /*height: 60vh;*/
     background-size: 100% !important;
     background-repeat: no-repeat !important;
     position: relative;
@@ -20,7 +19,6 @@
 h1 {
     color: white;
     vertical-align: middle;
-    /*margin-top: auto !important;*/
     font-size: 4.5rem !important;
 }
 .banner{
@@ -30,11 +28,6 @@ h1 {
     color: white;
     font-size: 2rem;
 
-}
-
-.animation {
-    /*margin-top: 250px !important;*/
-    /*font-size: 70px !important;*/
 }
 
 @media only screen and (max-width: 1200px) {
@@ -48,10 +41,10 @@ h1 {
         width: 100%;
         margin-bottom: 2rem;
         box-sizing: content-box;
-
-
     }
-
+.banner{
+    padding-left: 0;
+}
     .pHeader {
         color: white;
         font-size: 0.5rem;

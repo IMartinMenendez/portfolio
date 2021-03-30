@@ -1,14 +1,8 @@
 .card-row {
-    display: inline-block;
-    flex-direction: row;
-    /*margin-left: 150px;*/
-    margin-left: 10rem;
     margin-bottom: 5%;
 }
-
-.card-row:last-child { margin-right: 5rem; }
 .row{
-    margin: auto;
+    justify-content: space-evenly;
 }
 .card-row:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
@@ -17,17 +11,18 @@
 
 @media only screen and (max-width: 1000px) {
     .card-row {
-        margin-left: 20%;
+        justify-content: space-evenly;
         width: 15rem !important;
     }
 
     @media only screen and (max-width: 1600px) {
         .card-row {
+
            /*margin: auto;*/
-            margin-top: auto;
+           /* margin-top: auto;*/
             margin-bottom: 20%;
-            margin-right: auto;
-            margin-left: auto;
+            /*margin-right: auto;*/
+            /*margin-left: auto;*/
             width: 70% !important;
         }
     }
