@@ -32,15 +32,18 @@ export function AboutMe() {
                         challenge: Becoming a Web Developer.</p>
                     <p> Before moving into Software Development, I worked in Accountancy where I was responsible to
                         maintain the Management Accounts and posting journals to the correct ledger. I have developed
-                        attention to detail, math and problem solving thinking and other really useful skills for this
+                        attention to detail, critical thinking and other really useful skills for this
                         new pivot in my life.</p>
                     <p>To get the knowledge, I have completed a Web development Bootcamp. I learnt all I needed to
-                        became a
-                        Full Stack Web Developer, as it tough me to build complex web application using:
+                        become a
+                        Full Stack Web Developer, as it taught me to build complex web application using:
                         <b> HTML, CSS, Bootstrap, JavaScript, jQuery, DOM, Node.js, APIs, Git and GitHub, EJS, SQL,
                             MongoDB,
                             Mongoose and React.js.</b>
                     </p>
+                    <p>Also, I have completed the Tech Digital Reskilling Bootcamp with Ironhack with a Santander
+                        Scholarship, selected from the best candidates in an attitude test to complete this Pre-Work
+                        Bootcamp, where I learnt <b>Java, SQL, HTML5, CSS3 and JavaScript</b>.</p>
                     <div>
                         <a href="https://github.com/IMartinMenendez"><img className="icon" src={iconGithub} alt="Icon"/></a>
                         <a href="https://www.instagram.com/irene_mmenendez/"><img className="icon" src={iconInstagram}
