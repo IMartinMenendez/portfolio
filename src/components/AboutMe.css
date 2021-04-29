@@ -1,6 +1,7 @@
 .picture {
     width: 20%;
     margin-bottom: 5%;
+    height: 60%;
 }
 
 h3 {
@@ -36,8 +37,7 @@ p {
     .picture {
         width: 20%;
         height: 10%;
-        margin-left: 15%;
-        margin-bottom: 5%;
+        margin: auto auto 5%;
     }
 
     .AboutMe {
