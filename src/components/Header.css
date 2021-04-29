@@ -23,6 +23,7 @@ h1 {
 }
 .banner{
     padding-left: 100px;
+    width: max-content;
 }
 .pHeader {
     color: white;
