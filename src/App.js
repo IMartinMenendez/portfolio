@@ -30,7 +30,8 @@ function App() {
                     title="Blog"
                     description="Nice blogs with articles to read."
                     img="https://neilpatel.com/wp-content/uploads/2018/10/blog.jpg"
-                    button="Available soon"
+                    website="https://www.laultimapagina.com/#/"
+                    button="Take me there"
                 />
             </Row>
             <AboutMe/>
