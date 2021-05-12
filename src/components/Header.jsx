@@ -11,7 +11,7 @@ export function Header() {
                                       textStyle={{fontFamily: 'Montserrat',}}
                                       startDelay={100}
                                       cursorColor="white"
-                                      text="Irene Martin. Web Developer."
+                                      text="Irene Martín. Web Developer."
                                       typeSpeed={100}
                     />
                     <p className="pHeader">Creation without Limits.</p>
