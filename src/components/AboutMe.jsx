@@ -45,7 +45,7 @@ export function AboutMe() {
                         Scholarship, selected from the best candidates in an attitude test, where I
                         learnt <b>Java</b> and strengthen my knowledge on <b>CSS, JavaScript, HTML and SQL.</b> </p>
 
-                        <p>After finishing the Pre-Work, I was also selected as part as the 25 best candidates to
+                        <p>After finishing the Pre-Work, I was also selected as part as the 25 best candidates to continue with the scholarship and
                         complete Bootcamp Web Development, where I learnt <b>Programming Fundamentals,
                         Foundational Java and Testing, SQL and JPA, MicroServices Architecture and Distributed Systems,
                         TypeScript and Angular Fundamentals and more.</b></p>
