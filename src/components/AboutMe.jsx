@@ -34,19 +34,19 @@ export function AboutMe() {
                         maintain the Management Accounts and posting journals to the correct ledger. I have developed
                         attention to detail, critical thinking and other really useful skills for this
                         new pivot in my life.</p>
-                    <p>To get the knowledge, I have completed a Web development Bootcamp. I learnt all I needed to
-                        become a
-                        Full Stack Web Developer, as it taught me to build complex web application using:
+                    <p>To get the knowledge, I have completed:</p>
+                    <p>A Web development Bootcamp with Udemy where I learnt all I needed to
+                        become a Full Stack Web Developer, as it taught me to build complex web application using:
                         <b> HTML, CSS, Bootstrap, JavaScript, jQuery, DOM, Node.js, APIs, Git and GitHub, EJS, SQL,
                             MongoDB,
                             Mongoose and React.js.</b>
                     </p>
-                    <p>I have completed the Pre-Work Tech Digital Reskilling Bootcamp with Ironhack thought a Santander
-                        Scholarship, selected from the best candidates in an attitude test to complete it, where I
-                        learnt Java and strengthen my knowledge on <b>CSS, JavaScript, HTML and SQL.</b>
+                    <p>The Pre-Work Tech Digital Reskilling Bootcamp with Ironhack throught a Santander
+                        Scholarship, selected from the best candidates in an attitude test, where I
+                        learnt <b>Java</b> and strengthen my knowledge on <b>CSS, JavaScript, HTML and SQL.</b> </p>
 
-                        After complete it, I was also selected as part as the 25 best candidates from the Pre-Work to
-                        complete Bootcamp Web Development Full Stack, where I learnt <b>Programming Fundamentals,
+                        <p>After finishing the Pre-Work, I was also selected as part as the 25 best candidates to
+                        complete Bootcamp Web Development, where I learnt <b>Programming Fundamentals,
                         Foundational Java and Testing, SQL and JPA, MicroServices Architecture and Distributed Systems,
                         TypeScript and Angular Fundamentals and more.</b></p>
                     <div>
