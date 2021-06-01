@@ -41,7 +41,7 @@ export function AboutMe() {
                             MongoDB,
                             Mongoose and React.js.</b>
                     </p>
-                    <p>The Pre-Work Tech Digital Reskilling Bootcamp with Ironhack throught a Santander
+                    <p>The Pre-Work Tech Digital Reskilling Bootcamp with Ironhack through a Santander
                         Scholarship, selected from the best candidates in an attitude test, where I
                         learnt <b>Java</b> and strengthen my knowledge on <b>CSS, JavaScript, HTML and SQL.</b> </p>
 
