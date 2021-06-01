@@ -41,9 +41,14 @@ export function AboutMe() {
                             MongoDB,
                             Mongoose and React.js.</b>
                     </p>
-                    <p>Also, I have completed the Tech Digital Reskilling Bootcamp with Ironhack thought a Santander
-                        Scholarship, selected from the best candidates in an attitude test to complete this Pre-Work
-                        Bootcamp, where I learnt <b>Java</b> and strengthen my knowledge on <b>SQL, HTML5, CSS3 and JavaScript</b>.</p>
+                    <p>I have completed the Pre-Work Tech Digital Reskilling Bootcamp with Ironhack thought a Santander
+                        Scholarship, selected from the best candidates in an attitude test to complete it, where I
+                        learnt Java and strengthen my knowledge on <b>CSS, JavaScript, HTML and SQL.</b>
+
+                        After complete it, I was also selected as part as the 25 best candidates from the Pre-Work to
+                        complete Bootcamp Web Development Full Stack, where I learnt <b>Programming Fundamentals,
+                        Foundational Java and Testing, SQL and JPA, MicroServices Architecture and Distributed Systems,
+                        TypeScript and Angular Fundamentals and more.</b></p>
                     <div>
                         <a href="https://github.com/IMartinMenendez"><img className="icon" src={iconGithub} alt="Icon"/></a>
                         <a href="https://www.instagram.com/irene_mmenendez/"><img className="icon" src={iconInstagram}
